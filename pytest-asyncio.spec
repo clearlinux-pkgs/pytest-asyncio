@@ -4,7 +4,7 @@
 #
 Name     : pytest-asyncio
 Version  : 0.9.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/22/fd/6be59ed6eb49798d248730b8c2589e4f862a39b49775a1415972b31a3362/pytest-asyncio-0.9.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/22/fd/6be59ed6eb49798d248730b8c2589e4f862a39b49775a1415972b31a3362/pytest-asyncio-0.9.0.tar.gz
 Summary  : Pytest support for asyncio.
